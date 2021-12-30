@@ -7,7 +7,7 @@
 \____/ \__,_|___/\___\_|   |___/ \_|    
 
 ```
-<h4 align="center">BasePDF - Utility to convert Base64 into PDF File</h4>
+<h4 align="center">BasePDF - Utility to convert Base64 Encoded Data into PDF File</h4>
 
 BasePDF is a simple and effecient python utility to convert Base64 Encoded Data into PDF Files. 
 
